@@ -22,7 +22,7 @@ const FollowUsFooter = () => {
           base: "wrap",
         }}
       >
-        <Flex gap='6' mt='6'>
+        <Flex gap='6' mt='6' mr='6'>
           <Image
             _hover={{ cursor: "pointer" }}
             src={fbIcon}

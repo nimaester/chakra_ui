@@ -65,7 +65,7 @@ const Footer = () => {
         <Grid
           mt={6}
           gridTemplateColumns={{
-            sm: "repeat(3, 1fr)",
+            sm: "1fr",
             md: "repeat(3, 1fr)",
             lg: "repeat(3, 1fr)",
             xl: "repeat(3, 1fr)",
@@ -89,7 +89,7 @@ const Footer = () => {
             <Text
               fontWeight='600'
               pt={{
-                sm: "0",
+                sm: "6",
                 md: "0",
                 lg: "0",
                 xl: "0",
@@ -111,7 +111,7 @@ const Footer = () => {
           <GridItem>
             <Text
               pt={{
-                sm: "0",
+                sm: "6",
                 md: "0",
                 lg: "0",
                 xl: "0",
