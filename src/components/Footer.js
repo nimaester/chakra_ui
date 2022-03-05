@@ -140,7 +140,7 @@ const Footer = () => {
             md: "row",
             lg: "row",
             xl: "row",
-            base: "column",
+            base: "row",
           }}
         >
           <Text _hover={{ color: "gray", cursor: "pointer" }}>2022 Meetup</Text>
