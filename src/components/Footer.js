@@ -65,7 +65,7 @@ const Footer = () => {
         <Grid
           mt={6}
           gridTemplateColumns={{
-            sm: "1fr",
+            sm: "2fr",
             md: "repeat(3, 1fr)",
             lg: "repeat(3, 1fr)",
             xl: "repeat(3, 1fr)",
